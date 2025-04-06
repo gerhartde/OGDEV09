@@ -9,4 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=OGDEV09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ALL MY Plguins are testet on 1.21.1!
+✅ ALLE MEINE PLUGINS SIND GETESTET AUF 🧪 MINECRAFT 1.21.1! 🚀  
+🧩 Kompatibilität? Kein Problem!  
+🔧 Ich entwickle und teste jedes Plugin  auf Minecraft-Version 1.21.1.  
+💥 Performance, Stabilität & Funktionsumfang – alles auf dem neuesten Stand!
