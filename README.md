@@ -10,6 +10,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ✅ Alle meine Plugins sind getestet auf 🧪 Minecraft 1.21.1! 🚀
+
 🧩 Fehler gefunden? Sag mir beschied
 
 
